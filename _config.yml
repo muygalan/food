@@ -1,10 +1,10 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
+title: My Online Recipe Book
+email: imuygalan@gmail.com
 description: The plain text recipe database for hackers
-baseurl: ""
-twitter_username: clarklab
-github_username:  clarklab
+baseurl: "http://www.joshuagalan.com/recipes/"
+twitter_username: muygalan
+github_username:  muygalan
 
 # Build settings
 markdown: kramdown
